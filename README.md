@@ -7,4 +7,5 @@ In this Jupyter Notebook, I've used `LSTM RNN with Technical Indicators` namely 
 If anyone wants to brainstorm ideas or collab on a project, hit me up at:
   
 > LinkedIn: https://www.linkedin.com/in/tejas-linge/
+
 >  Mail: tejas.linge101@gmail.com
